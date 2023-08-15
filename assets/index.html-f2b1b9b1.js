@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as o,a as e}from"./app-ba36a8b7.js";const c={},s=e("div",{class:"hint-container tip"},[e("p",{class:"hint-container-title"},"介绍"),e("p",null,"Springboot能够快速搭建其开发")],-1),i=[s];function r(a,_){return n(),o("div",null,i)}const p=t(c,[["render",r],["__file","index.html.vue"]]);export{p as default};

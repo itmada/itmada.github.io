@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as s,a as t}from"./app-ba36a8b7.js";const c={},o=t("div",{class:"hint-container tip"},[t("p",{class:"hint-container-title"},"介绍"),t("p",null,"MybatisPlus是Mybatis的强化工具")],-1),i=[o];function a(r,_){return n(),s("div",null,i)}const f=e(c,[["render",a],["__file","index.html.vue"]]);export{f as default};
